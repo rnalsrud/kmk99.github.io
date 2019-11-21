@@ -1,4 +1,4 @@
-## 구민경의 홈페이지에 온 것을 환영합니다
+# 구민경의 홈페이지에 온 것을 환영합니다
 
 You can use the [editor on GitHub](https://github.com/rnalsrud/kmk99.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
